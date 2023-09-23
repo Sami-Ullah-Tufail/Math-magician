@@ -54,73 +54,34 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
 Example command:
 
 ```sh
- gem install rails
+ Node Js
 ```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:Sami-Ullah-Tufail/Math-magician.git
 ```
---->
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
-  rails server
+ npm start
 ```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
-<!--
-Example:
-
 ```sh
-
+ npm run build
 ```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,7 +117,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+If you like this project follow me on LinkedIn @ https://www.linkedin.com/in/sami-ullah-42a4231aa/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
