@@ -1,6 +1,6 @@
 const Calculator = () => (
   <div className="calculator">
-    <div className="screen " />
+    <div className="screen ">0</div>
     <div className="keyboad">
       <button type="button" className="numpad">
         AC
