@@ -1,5 +1,3 @@
-
-
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
