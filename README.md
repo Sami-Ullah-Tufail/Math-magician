@@ -69,8 +69,6 @@ Clone this repository to your desired folder:
   git clone git@github.com:Sami-Ullah-Tufail/Math-magician.git
 ```
 
--
-
 ### Usage
 
 To run the project, execute the following command:
