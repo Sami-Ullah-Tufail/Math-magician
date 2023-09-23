@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
--- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -23,19 +21,13 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
 # 📖 [Math Magicions ] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[Math Magicions]** is a website based on resct that will sere as a single page site and will have functions like calculators in it
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -44,11 +36,7 @@
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[Setup using React]**
 
@@ -59,8 +47,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -128,8 +114,6 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
-
 <!--
 Example:
 
@@ -144,8 +128,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Sami Ullah**
 
 - GitHub: [@githubhandle](https://github.com/Sami-Ullah-Tufail)
@@ -153,8 +135,6 @@ Example:
 - LinkedIn: [LinkedIn](https://linkedin.com/in/Sami-Ullah)
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Single Page Application]**
 - [ ] **[Including Calculator]**
@@ -176,8 +156,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -185,8 +163,6 @@ If you like this project...
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse
 
