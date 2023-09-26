@@ -1,14 +1,23 @@
-import Calculator from './components/Calculator';
 import './components/calculator.css';
-import ShowQuotes from './components/ShowQuotes';
 import './components/quotes.css';
+import {
+  createBrowserRouter, Route, createRoutesFromElements, RouterProvider,
+} from 'react-router-dom';
+import Calpage from './pages/CalculatorPage';
+import Quotepage from './pages/Quotespage';
+import Home from './pages/Home';
+import Layout from './lauout/layout';
+
+const router = createBrowserRouter(
+  createRoutesFromElements(
+    <Route element={<Layout />}>
+      <Route path="/" element={<Home />} />
+      <Route path="/Calculator" element={<Calpage />} />
+      <Route path="/Quotes" element={<Quotepage />} />
+    </Route>,
+  ),
+);
 
 export default function App() {
-  return (
-    <div>
-      <Calculator />
-      {' '}
-      <ShowQuotes />
-    </div>
-  );
+  return <RouterProvider router={router} />;
 }

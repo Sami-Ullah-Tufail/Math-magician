@@ -1,9 +1,3 @@
-/**
- * /* eslint-disable react/prefer-stateless-function
- *
- * @format
- */
-
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
