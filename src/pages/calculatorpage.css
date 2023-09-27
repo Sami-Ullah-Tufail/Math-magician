@@ -1,18 +1,20 @@
-.Calculator{
-    display:flex;
-    flex-direction: row;
-    width:100%;
-    justify-content: space-between;
-   height: 50%;
+.Calculator {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  height: 50%;
 }
-.Markr{
-    width: 50%;
-    padding: 0;
-    border: solid;
-    object-fit: contain;
-    height: 576px;
+
+.Markr {
+  width: 50%;
+  padding: 0;
+  border: solid;
+  object-fit: contain;
+  height: 576px;
 }
-.lets{
-    display: flex;
-    margin-left: 20px;
+
+.lets {
+  display: flex;
+  margin-left: 20px;
 }
