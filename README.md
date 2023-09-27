@@ -77,7 +77,7 @@ To run the project, execute the following command:
  npm start
 ```
 
-### Deployment
+### Deployments
 
 ```sh
  npm run build
