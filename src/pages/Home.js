@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <div>
-      <h1>**Welcome to the Enchanting World of Math Magicians!**</h1>
+    <div className="homedisplay">
+      <h1>Welcome to the Enchanting World of Math Magicians!</h1>
 
       <p>
         Step into a realm where numbers dance with enchantment and
@@ -18,7 +18,7 @@ export default function Home() {
         mathematical curiosity.
       </p>
 
-      <h1>**Experience the Magic of Numbers**</h1>
+      <h1>Experience the Magic of Numbers</h1>
 
       <p>
         At Math Magicians, we believe that mathematics is more than
@@ -34,7 +34,7 @@ export default function Home() {
         a source of inspiration that transcends boundaries.
       </p>
 
-      <h1>**Join the Mathematical Journey**</h1>
+      <h1>Join the Mathematical Journey</h1>
 
       <p>
         Embrace the enchanting journey of numbers and inspiration

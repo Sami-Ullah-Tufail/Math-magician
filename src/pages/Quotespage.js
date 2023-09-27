@@ -1,5 +1,5 @@
 import ShowQuotes from '../components/ShowQuotes';
 
 export default function Quotepage() {
-  return <div><ShowQuotes /></div>;
+  return <div className="Quotesa"><ShowQuotes /></div>;
 }

@@ -12,6 +12,13 @@
 }
 .linksdev{
     margin: 20px;
+    display: block;
+    color: black;
+}
+.linksdev :hover{
+    margin: 20px;
+    display: block;
+    color: red;
 }
 .Viewer{
     width: 100%;

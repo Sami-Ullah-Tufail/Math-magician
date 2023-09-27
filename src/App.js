@@ -2,6 +2,8 @@ import './components/calculator.css';
 import './components/quotes.css';
 import './lauout/layout.css';
 import './pages/calculatorpage.css';
+import './pages/quotespage.css';
+import './pages/home.css';
 import {
   createBrowserRouter, Route, createRoutesFromElements, RouterProvider,
 } from 'react-router-dom';
