@@ -7,12 +7,14 @@ export default function Layout() {
         <h1>
           Math Magicians
         </h1>
-        <NavLink to="/">Home</NavLink>
-        <NavLink to="/Calculator">Calculator</NavLink>
-        <NavLink to="/Quotes">Quotes</NavLink>
+        <div className="Links">
+          <NavLink className="linksdev" to="/">Home</NavLink>
+          <NavLink className="linksdev" to="/Calculator">Calculator</NavLink>
+          <NavLink className="linksdev" to="/Quotes">Quotes</NavLink>
+        </div>
       </div>
-      <div>
-        <Outlet />
+      <div className="Viewer">
+        <Outlet className="display" />
       </div>
     </div>
   );

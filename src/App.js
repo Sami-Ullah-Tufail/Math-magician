@@ -1,5 +1,7 @@
 import './components/calculator.css';
 import './components/quotes.css';
+import './lauout/layout.css';
+import './pages/calculatorpage.css';
 import {
   createBrowserRouter, Route, createRoutesFromElements, RouterProvider,
 } from 'react-router-dom';

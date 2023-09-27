@@ -2,11 +2,11 @@ import Calculator from '../components/Calculator';
 
 export default function Calpage() {
   return (
-    <div>
+    <div className="Calculator">
       <h1>
         lets do some maths
       </h1>
-      <div>
+      <div className="Markr">
         <Calculator />
       </div>
     </div>
